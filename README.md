@@ -1,5 +1,5 @@
 # Cuphead Lezi Mod
-这是一个有趣的茶杯头模组
+这是一个有趣的茶杯头模组，适用于Cuphead v1.3.4
 ## 已修改的BOSS
 1. 蔬菜三兄弟
 2. 伟大的古比
@@ -13,3 +13,5 @@
 ## 已修改的护符
 1. 生命单心
 2. 生命双心
+## 怎样安装
+在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到/Cuphead_Data/Managed/中
