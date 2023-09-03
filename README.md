@@ -15,3 +15,5 @@
 2. 生命双心
 ## 怎样安装
 在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到/Cuphead_Data/Managed/中
+## 更多
+[官方文档](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
