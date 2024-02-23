@@ -28,7 +28,7 @@
 ## 下载
 [下载链接](https://github.com/ilovecplusplus97/CupheadLezIMod/raw/main/Assembly-CSharp.dll)
 ## 怎样安装
-在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中
+在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中<br>
 在游戏中按F1显示乐子界面即成功
 ## 注意事项
 1. 该mod不建议双人游玩
