@@ -25,7 +25,10 @@
 ## 已修改的护符
 1. 生命单心
 2. 生命双心
+## 下载
+[下载链接](https://github.com/ilovecplusplus97/CupheadLezIMod/raw/main/Assembly-CSharp.dll)
 ## 怎样安装
-在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到/Cuphead_Data/Managed/中
+在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中
+在游戏中按F1显示乐子界面即成功
 ## 更多
 [官方文档（已停止更新）](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
