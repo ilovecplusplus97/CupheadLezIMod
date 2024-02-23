@@ -6,6 +6,7 @@
 3. 陵墓2
 4. 陵墓3
 5. 齐柏林
+6. 搓澡花
 ## 添加的小游戏（简单模式）
 1. 土豆领主（蔬菜三兄弟）
 2. 痿大的古比三兄弟（伟大的古比）
@@ -18,10 +19,13 @@
 4. 集火枪
 5. 螺旋弹
 6. 散射枪
+7. 追踪弹
+8. 爆裂枪
+9. 弹射弹
 ## 已修改的护符
 1. 生命单心
 2. 生命双心
 ## 怎样安装
 在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到/Cuphead_Data/Managed/中
 ## 更多
-[官方文档](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
+[官方文档（已停止更新）](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
