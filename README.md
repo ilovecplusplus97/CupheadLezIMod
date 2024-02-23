@@ -30,5 +30,8 @@
 ## 怎样安装
 在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中
 在游戏中按F1显示乐子界面即成功
+## 注意事项
+1. 该mod不建议双人游玩
+2. 伟大的古比二阶段只能用蓄力弹造成伤害
 ## 更多
 [官方文档（已停止更新）](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
