@@ -9,6 +9,7 @@
 6. 搓澡花
 7. 青蛙
 8. 喷火龙
+9. 灯神
 ## 添加的小游戏（简单模式）
 1. 土豆领主（蔬菜三兄弟）
 2. 痿大的古比三兄弟（伟大的古比）
@@ -16,6 +17,7 @@
 4. 空中斗龙（喷火龙）
 5. 近战（搓澡花）
 6. 远视主义（青蛙）
+7. 茶杯头极速版（灯神）
 ## 已修改的武器
 1. 豆子枪
 2. 回旋弹
@@ -33,7 +35,7 @@
 Github: [https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip](https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip)<br>
 Gitee: [https://gitee.com/ilovecplusplus97/CupheadLeziMod/repository/archive/main.zip](https://gitee.com/ilovecplusplus97/CupheadLeziMod/repository/archive/main.zip)
 ## 怎样安装
-在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中，将LeziResources复制到游戏exe同目录<br>
+在Steam中打开Cuphead的文件夹，将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中<br>
 进入游戏，在地图上显示乐子界面即成功
 ## 注意事项
 1. 该mod不建议双人游玩
