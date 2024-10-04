@@ -1,4 +1,5 @@
 # LeziResources
+现版本已废弃，以下内容无需阅读，<br>
 该文件夹存放Lezi Mod所需的资源文件<br>
 需将其放置到游戏exe同目录下
 ## CupheadLocalization.csv
