@@ -3,14 +3,12 @@
 ## 已修改的BOSS（专家模式）
 1. 蔬菜三兄弟
 2. 伟大的古比
-3. 陵墓2
-4. 陵墓3
-5. 齐柏林
-6. 搓澡花
-7. 青蛙
-8. 喷火龙
-9. 灯神
-10. 鸟
+3. 齐柏林
+4. 搓澡花
+5. 青蛙
+6. 喷火龙
+7. 灯神
+8. 鸟
 ## 添加的小游戏（简单模式）
 1. 土豆领主（蔬菜三兄弟）
 2. 痿大的古比三兄弟（伟大的古比）
@@ -19,41 +17,45 @@
 5. 近战（搓澡花）
 6. 远视主义（青蛙）
 7. 茶杯头极速版（灯神）
+## 已修改的陵墓
+1. 陵墓2
+2. 陵墓3
+## 已修改的跑酷关卡
+1. 罪恶森林
 ## 已修改的武器
-1. 豆子枪
-2. 回旋弹
-3. 蓄力弹
-4. 集火枪
-5. 螺旋弹
-6. 散射枪
-7. 追踪弹
-8. 爆裂枪
-9. 弹射弹
+已修改所有武器
 ## 已修改的护符
 1. 生命单心
 2. 生命双心
 ## 其他
 1. 飞机转向
 ## 下载
-Github: [https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip](https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip)<br>
+Github: [https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip](https://github.com/ilovecplusplus97/CupheadLeziMod/archive/refs/heads/main.zip)
 Gitee: [https://gitee.com/ilovecplusplus97/CupheadLeziMod/repository/archive/main.zip](https://gitee.com/ilovecplusplus97/CupheadLeziMod/repository/archive/main.zip)
 ## 怎样安装
 ### 第一种方法（推荐）
-在Steam中打开Cuphead的文件夹，把目录中的Installer.exe复制到其中（不复制直接打开也可），<br>
-之后将文件夹中的Assembly-CSharp.dll拖入Installer.exe中（不拖入直接打开也可），<br>
-进入游戏，在地图上显示乐子界面即成功。
+打开mod文件夹中的installer.exe，
+点击“选择”选择你的游戏文件（Cuphead.exe），
+点击“安装”即可
 ### 第二种方法
-在Steam中打开Cuphead的文件夹，<br>
-将Assembly-CSharp.dll复制到游戏目录/Cuphead_Data/Managed/中<br>
+在Steam中打开Cuphead的文件夹，
+将Assembly-CSharp.dll复制到 游戏目录/Cuphead_Data/Managed/中，
+将lezimod复制到 游戏目录/Cuphead_Data/StreamingAssets/中
 ## 如何卸载
 ### 第一种方法（推荐）
-将Assembly-CSharp-backup.dll拖入Installer.exe中即可（或在选择mod文件时，选择Assembly-CSharp-backup.dll也可）。
+打开mod文件夹中的installer.exe，
+点击“选择”选择你的游戏文件（Cuphead.exe），
+点击“卸载”即可
 ### 第二种方法
-删去复制的Assembly-CSharp.dll文件，<br>
-将Assembly-CSharp-backup.dll文件复制到游戏目录中并重命名为Assembly-CSharp.dll
+删去复制的lezimod文件，
+删去复制的Assembly-CSharp.dll文件，
+将Assembly-CSharp-backup.dll文件复制到Assembly-CSharp.dll所在文件夹中，
+并将其重命名为Assembly-CSharp.dll
 ## 注意事项
-1. 该mod不建议双人游玩
-2. 伟大的古比二阶段只能用蓄力弹造成伤害
-3. 该mod纯属娱乐，可能出现各种bug及无缝攻击
+1. 该mod纯属娱乐，可能出现各种bug或无缝攻击
+2. 该mod不建议双人游玩
+3. 伟大的古比二阶段只能用蓄力弹造成伤害
+4. 齐柏林B面难度极高，建议在游玩[极难MOD](https://gamebanana.com/wips/51116)以及[极难DLC MOD](https://gamebanana.com/mods/411086)后再进行挑战
 ## 更多
+[安装器仓库](https://github.com/ilovecplusplus97/CupheadLeziModInstaller)
 [官方文档（已停止更新）](https://ilovecplusplus97.github.io/CupheadLeziModManual/)
